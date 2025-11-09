@@ -17,3 +17,8 @@ This is a test sentence.
 6. This will create a merge conflict in Teammate B's PR, it must be resolved and committed
 
 
+## Learning Outcomes
+
+- Resolve Merge conflicts between local and remote repositories 
+- Understand the difference between incoming and current changes
+
