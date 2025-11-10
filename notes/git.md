@@ -27,27 +27,28 @@ https://git-scm.com/install/
 
 - Agenda 
 
-[x]. Set up git
+- [x]. Set up git
 
-[x] Create a remote repository
+- [x] Create a remote repository
 
 
-[x] basic git commands
-	[x] Push repository
+- [x] basic git commands
+	- [x] Push repository
         - [x] Git add (staging)
         - [x] Git commit
-	[x] Pull repository
-	[x] Fetch vs Pull
+	- [x] Pull repository
+	- [x] Fetch vs Pull
         - [x] Pull is a combination of fetch and merging
-	[x] Create a branch
+	- [x] Create a branch
         - [x] Git branch
         - [x] Git checkout -b
-	[x] merge
-	[x] Pull request
-    [x] stashing
+	- [x] merge
+	- [x] Pull request
+    - [x] stashing
 
-[x] init a local repository and connect it to remote
+- [x] init a local repository and connect it to remote
 
-[ ] advanced git commands
-    [ ] rebasing
-    [ ] revert
+- [ ] Intermediate git
+	- [ ] .gitignore file
+    - [ ] rebasing
+    - [ ] revert
