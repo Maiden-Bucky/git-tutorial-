@@ -11,3 +11,4 @@
 
 ## Slay-off
 It seems you're being tested Diva.
+**Stay strong and Slay the house DOWN!!!**
